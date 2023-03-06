@@ -1,0 +1,2 @@
+,index,season,date,league_id,league,team1,team2,spi1,spi2,prob1,prob2,probtie,proj_score1,proj_score2,importance1,importance2,score1,score2,xg1,xg2,nsxg1,nsxg2,adj_score1,adj_score2
+7927,37816,2020,2020-12-17,2411,Barclays Premier League,Aston Villa,Burnley,74.61,65.91,0.5447,0.2089,0.2463,1.7,0.95,,,0.0,0.0,1.9,0.29,1.86,0.59,0.0,0.0

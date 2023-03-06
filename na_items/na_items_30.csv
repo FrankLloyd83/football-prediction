@@ -1,0 +1,4 @@
+,index,season,date,league_id,league,team1,team2,spi1,spi2,prob1,prob2,probtie,proj_score1,proj_score2,importance1,importance2,score1,score2,xg1,xg2,nsxg1,nsxg2,adj_score1,adj_score2
+7065,32161,2019,2020-06-28,1869,Spanish Primera Division,Villarreal,Valencia,72.5,68.01,0.4726,0.2835,0.2439,1.74,1.3,21.6,16.1,2.0,0.0,,,,,,
+7066,32164,2019,2020-06-28,1854,Italy Serie A,AC Milan,AS Roma,73.0,75.44,0.3375,0.4048,0.2577,1.41,1.57,0.6,35.3,2.0,0.0,,,,,,
+7067,32166,2019,2020-06-28,2411,Barclays Premier League,Watford,Southampton,72.89,69.38,0.4745,0.262,0.2635,1.52,1.06,48.4,1.1,1.0,3.0,,,,,,

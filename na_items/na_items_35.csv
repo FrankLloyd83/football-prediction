@@ -1,0 +1,2 @@
+,index,season,date,league_id,league,team1,team2,spi1,spi2,prob1,prob2,probtie,proj_score1,proj_score2,importance1,importance2,score1,score2,xg1,xg2,nsxg1,nsxg2,adj_score1,adj_score2
+7756,36926,2020,2020-11-28,2411,Barclays Premier League,Manchester City,Burnley,93.52,66.74,0.8416,0.0382,0.1202,2.6,0.4,,,5.0,0.0,2.23,0.4,2.17,0.74,5.25,0.0

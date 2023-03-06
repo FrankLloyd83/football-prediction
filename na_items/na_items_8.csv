@@ -1,0 +1,2 @@
+,index,season,date,league_id,league,team1,team2,spi1,spi2,prob1,prob2,probtie,proj_score1,proj_score2,importance1,importance2,score1,score2,xg1,xg2,nsxg1,nsxg2,adj_score1,adj_score2
+1023,1177,2016,2017-02-01,1854,Italy Serie A,US Pescara,Fiorentina,41.03,69.14,0.2192,0.5338,0.2471,1.23,2.01,,,1.0,2.0,0.41,0.98,0.42,2.02,1.05,2.1

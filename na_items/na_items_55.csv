@@ -1,0 +1,5 @@
+,index,season,date,league_id,league,team1,team2,spi1,spi2,prob1,prob2,probtie,proj_score1,proj_score2,importance1,importance2,score1,score2,xg1,xg2,nsxg1,nsxg2,adj_score1,adj_score2
+11221,58216,2022,2022-09-10,2411,Barclays Premier League,Liverpool,Wolverhampton,84.4,63.33,0.7444,0.0935,0.162,2.36,0.71,53.8,23.8,,,,,,,,
+11222,58217,2022,2022-09-10,2411,Barclays Premier League,Leicester City,Aston Villa,67.9,72.44,0.4003,0.3366,0.2631,1.36,1.22,37.7,24.4,,,,,,,,
+11223,58218,2022,2022-09-10,2411,Barclays Premier League,AFC Bournemouth,Brighton and Hove Albion,55.22,79.38,0.188,0.5959,0.216,0.99,1.94,45.1,46.9,,,,,,,,
+11224,58220,2022,2022-09-10,2411,Barclays Premier League,Southampton,Brentford,62.54,70.99,0.349,0.4056,0.2455,1.39,1.52,30.2,17.4,,,,,,,,

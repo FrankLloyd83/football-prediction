@@ -1,0 +1,11 @@
+,index,season,date,league_id,league,team1,team2,spi1,spi2,prob1,prob2,probtie,proj_score1,proj_score2,importance1,importance2,score1,score2,xg1,xg2,nsxg1,nsxg2,adj_score1,adj_score2
+753,872,2016,2016-12-13,2411,Barclays Premier League,AFC Bournemouth,Leicester City,62.47,63.24,0.4549,0.2909,0.2542,1.71,1.4,,,1.0,0.0,0.62,1.49,0.83,2.43,1.05,0.0
+754,873,2016,2016-12-13,2411,Barclays Premier League,Everton,Arsenal,65.92,85.11,0.1743,0.6144,0.2112,1.24,2.0,,,2.0,1.0,1.44,1.5,1.47,1.89,2.1,1.05
+755,874,2016,2016-12-14,2411,Barclays Premier League,Sunderland,Chelsea,49.97,86.3,0.0736,0.7687,0.1577,0.83,2.26,,,0.0,1.0,0.55,1.08,1.0,2.43,0.0,1.05
+756,875,2016,2016-12-14,2411,Barclays Premier League,Middlesbrough,Liverpool,55.14,81.74,0.1692,0.604,0.2268,1.02,1.82,,,0.0,3.0,0.26,2.15,0.46,2.08,0.0,3.15
+757,876,2016,2016-12-14,2411,Barclays Premier League,West Ham United,Burnley,60.48,54.41,0.521,0.2248,0.2541,1.74,1.11,,,1.0,0.0,2.21,1.06,1.6,1.39,1.05,0.0
+758,877,2016,2016-12-14,2411,Barclays Premier League,Crystal Palace,Manchester United,59.76,79.33,0.2144,0.5447,0.2409,1.18,1.88,,,1.0,2.0,0.7,1.37,0.76,2.22,1.05,2.1
+759,878,2016,2016-12-14,2411,Barclays Premier League,West Bromwich Albion,Swansea City,62.24,58.06,0.4963,0.2414,0.2623,1.66,1.11,,,3.0,1.0,1.88,1.46,1.24,1.58,3.15,1.05
+760,879,2016,2016-12-14,2411,Barclays Premier League,Stoke City,Southampton,62.19,68.57,0.3852,0.3158,0.2989,1.19,1.11,,,0.0,0.0,0.34,0.71,0.52,2.33,0.0,0.0
+761,880,2016,2016-12-14,2411,Barclays Premier League,Manchester City,Watford,85.04,60.14,0.7818,0.0742,0.144,2.74,0.72,,,2.0,0.0,1.72,0.57,2.28,0.5,1.7,0.0
+762,881,2016,2016-12-14,2411,Barclays Premier League,Tottenham Hotspur,Hull City,77.63,43.95,0.7545,0.0671,0.1783,2.3,0.36,,,3.0,0.0,2.64,0.73,2.53,1.27,3.08,0.0

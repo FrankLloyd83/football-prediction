@@ -1,0 +1,73 @@
+,start_index,stop_index,start_date,stop_date,season,leagues,info
+0,206,241,2016-09-20,2016-09-21,2016,"['French Ligue 1' 'German Bundesliga' 'Italy Serie A'
+ 'Spanish Primera Division']",['importance1' 'importance2']
+1,274,274,2016-09-25,2016-09-25,2016,['Spanish Primera Division'],['importance1' 'importance2']
+2,441,449,2016-10-25,2016-10-26,2016,['Italy Serie A'],['importance1' 'importance2']
+3,647,656,2016-11-29,2016-11-30,2016,['French Ligue 1'],['importance1' 'importance2']
+4,753,762,2016-12-13,2016-12-14,2016,['Barclays Premier League'],['importance1' 'importance2']
+5,812,832,2016-12-20,2016-12-21,2016,['French Ligue 1' 'German Bundesliga' 'Italy Serie A'],['importance1' 'importance2']
+6,859,868,2017-01-02,2017-01-04,2016,['Barclays Premier League'],['importance1' 'importance2']
+7,928,928,2017-01-18,2017-01-18,2016,['French Ligue 1'],['importance1' 'importance2']
+8,1023,1023,2017-02-01,2017-02-01,2016,['Italy Serie A'],['importance1' 'importance2']
+9,1073,1074,2017-02-07,2017-02-07,2016,['French Ligue 1'],['importance1' 'importance2']
+10,1076,1084,2017-02-07,2017-02-08,2016,['French Ligue 1' 'Italy Serie A'],['importance1' 'importance2']
+11,1173,1174,2017-02-21,2017-02-22,2016,['French Ligue 1' 'Spanish Primera Division'],['importance1' 'importance2']
+12,1222,1230,2017-02-28,2017-03-01,2016,['French Ligue 1' 'Spanish Primera Division'],['importance1' 'importance2']
+13,1282,1283,2017-03-08,2017-03-08,2016,['Barclays Premier League' 'Spanish Primera Division'],['importance1' 'importance2']
+14,1423,1433,2017-04-04,2017-04-04,2016,['Barclays Premier League' 'German Bundesliga' 'Spanish Primera Division'],['importance1' 'importance2']
+15,1435,1450,2017-04-05,2017-04-05,2016,['Barclays Premier League' 'German Bundesliga' 'Spanish Primera Division'],['importance1' 'importance2']
+16,1492,1492,2017-04-09,2017-04-09,2016,['Spanish Primera Division'],['importance1' 'importance2']
+17,1551,1551,2017-04-18,2017-04-18,2016,['French Ligue 1'],['importance1' 'importance2']
+18,1597,1598,2017-04-25,2017-04-25,2016,['Spanish Primera Division'],['importance1' 'importance2']
+19,1600,1603,2017-04-25,2017-04-26,2016,['Spanish Primera Division'],['importance1' 'importance2']
+20,1607,1607,2017-04-26,2017-04-26,2016,['Spanish Primera Division'],['importance1' 'importance2']
+21,1651,1651,2017-04-30,2017-04-30,2016,['Spanish Primera Division'],['importance1' 'importance2']
+22,1656,1656,2017-04-30,2017-04-30,2016,['Spanish Primera Division'],['importance1' 'importance2']
+23,1710,1710,2017-05-10,2017-05-10,2016,['Barclays Premier League'],['importance1' 'importance2']
+24,1760,1765,2017-05-15,2017-05-17,2016,['Barclays Premier League' 'French Ligue 1' 'Spanish Primera Division'],['importance1' 'importance2']
+25,2051,2076,2017-09-19,2017-09-20,2017,['German Bundesliga' 'Italy Serie A' 'Spanish Primera Division'],['importance1' 'importance2']
+26,2117,2117,2017-09-24,2017-09-24,2017,['Spanish Primera Division'],['importance1' 'importance2']
+27,6795,6875,2020-03-13,2020-05-09,2019,['French Ligue 1'],"['adj_score1' 'adj_score2' 'importance1' 'importance2' 'nsxg1' 'nsxg2'
+ 'score1' 'score2' 'xg1' 'xg2']"
+28,6882,6891,2020-05-16,2020-05-16,2019,['French Ligue 1'],"['adj_score1' 'adj_score2' 'importance1' 'importance2' 'nsxg1' 'nsxg2'
+ 'score1' 'score2' 'xg1' 'xg2']"
+29,6901,6910,2020-05-23,2020-05-23,2019,['French Ligue 1'],"['adj_score1' 'adj_score2' 'importance1' 'importance2' 'nsxg1' 'nsxg2'
+ 'score1' 'score2' 'xg1' 'xg2']"
+30,7065,7067,2020-06-28,2020-06-28,2019,['Barclays Premier League' 'Italy Serie A' 'Spanish Primera Division'],['adj_score1' 'adj_score2' 'nsxg1' 'nsxg2' 'xg1' 'xg2']
+31,7304,7310,2020-08-21,2020-08-23,2020,['French Ligue 1'],['importance1' 'importance2']
+32,7450,7450,2020-10-01,2020-10-01,2020,['Spanish Primera Division'],['importance1' 'importance2']
+33,7491,7491,2020-10-04,2020-10-04,2020,['Spanish Primera Division'],['importance1' 'importance2']
+34,7499,7499,2020-10-04,2020-10-04,2020,['Spanish Primera Division'],['importance1' 'importance2']
+35,7756,7756,2020-11-28,2020-11-28,2020,['Barclays Premier League'],['importance1' 'importance2']
+36,7858,7858,2020-12-12,2020-12-12,2020,['Barclays Premier League'],['importance1' 'importance2']
+37,7927,7927,2020-12-17,2020-12-17,2020,['Barclays Premier League'],['importance1' 'importance2']
+38,8383,8383,2021-02-13,2021-02-13,2020,['Italy Serie A'],['importance1' 'importance2']
+39,8860,8860,2021-04-23,2021-04-23,2020,['French Ligue 1'],['adj_score1' 'adj_score2' 'nsxg1' 'nsxg2' 'xg1' 'xg2']
+40,9130,9139,2021-08-06,2021-08-08,2021,['French Ligue 1'],['importance1' 'importance2']
+41,10069,10069,2022-01-09,2022-01-09,2021,['Italy Serie A'],['importance1' 'importance2']
+42,10081,10082,2022-01-10,2022-01-10,2021,['Italy Serie A' 'Spanish Primera Division'],"['adj_score1' 'adj_score2' 'importance1' 'importance2' 'nsxg1' 'nsxg2'
+ 'xg1' 'xg2']"
+43,10120,10120,2022-01-16,2022-01-16,2021,['Italy Serie A'],['importance1' 'importance2']
+44,10153,10153,2022-01-22,2022-01-22,2021,['Italy Serie A'],['importance1' 'importance2']
+45,10219,10219,2022-02-06,2022-02-06,2021,['Italy Serie A'],['importance1' 'importance2']
+46,10255,10255,2022-02-12,2022-02-12,2021,['Italy Serie A'],['importance1' 'importance2']
+47,10311,10311,2022-02-20,2022-02-20,2021,['Italy Serie A'],['importance1' 'importance2']
+48,10346,10346,2022-02-26,2022-02-26,2021,['Italy Serie A'],['importance1' 'importance2']
+49,10388,10388,2022-03-04,2022-03-04,2021,['Italy Serie A'],['importance1' 'importance2']
+50,10422,10422,2022-03-06,2022-03-06,2021,['Italy Serie A'],['importance1' 'importance2']
+51,10458,10458,2022-03-13,2022-03-13,2021,['Italy Serie A'],['importance1' 'importance2']
+52,10482,10482,2022-03-13,2022-03-13,2021,['Italy Serie A'],['importance1' 'importance2']
+53,10506,10506,2022-03-19,2022-03-19,2021,['Italy Serie A'],['importance1' 'importance2']
+54,10532,10532,2022-03-20,2022-03-20,2021,['Italy Serie A'],['importance1' 'importance2']
+55,11221,11224,2022-09-10,2022-09-10,2022,['Barclays Premier League'],['adj_score1' 'adj_score2' 'nsxg1' 'nsxg2' 'score1' 'score2' 'xg1' 'xg2']
+56,11237,11238,2022-09-11,2022-09-11,2022,['Barclays Premier League'],['adj_score1' 'adj_score2' 'nsxg1' 'nsxg2' 'score1' 'score2' 'xg1' 'xg2']
+57,11256,11256,2022-09-12,2022-09-12,2022,['Barclays Premier League'],['adj_score1' 'adj_score2' 'nsxg1' 'nsxg2' 'score1' 'score2' 'xg1' 'xg2']
+58,11277,11277,2022-09-17,2022-09-17,2022,['Barclays Premier League'],"['adj_score1' 'adj_score2' 'importance1' 'importance2' 'nsxg1' 'nsxg2'
+ 'score1' 'score2' 'xg1' 'xg2']"
+59,11285,11285,2022-09-18,2022-09-18,2022,['Barclays Premier League'],"['adj_score1' 'adj_score2' 'importance1' 'importance2' 'nsxg1' 'nsxg2'
+ 'score1' 'score2' 'xg1' 'xg2']"
+60,11297,11297,2022-09-18,2022-09-18,2022,['Barclays Premier League'],"['adj_score1' 'adj_score2' 'importance1' 'importance2' 'nsxg1' 'nsxg2'
+ 'score1' 'score2' 'xg1' 'xg2']"
+61,11824,12781,2023-01-16,2023-06-04,2022,"['Barclays Premier League' 'French Ligue 1' 'German Bundesliga'
+ 'Italy Serie A' 'Spanish Primera Division']","['adj_score1' 'adj_score2' 'importance1' 'importance2' 'nsxg1' 'nsxg2'
+ 'score1' 'score2' 'xg1' 'xg2']"

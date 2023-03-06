@@ -1,0 +1,2 @@
+,index,season,date,league_id,league,team1,team2,spi1,spi2,prob1,prob2,probtie,proj_score1,proj_score2,importance1,importance2,score1,score2,xg1,xg2,nsxg1,nsxg2,adj_score1,adj_score2
+10311,51690,2021,2022-02-20,1854,Italy Serie A,Fiorentina,Atalanta,69.21,77.59,0.3159,0.436,0.2481,1.36,1.63,,,1.0,0.0,0.86,0.55,0.49,0.19,1.05,0.0

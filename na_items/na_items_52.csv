@@ -1,0 +1,2 @@
+,index,season,date,league_id,league,team1,team2,spi1,spi2,prob1,prob2,probtie,proj_score1,proj_score2,importance1,importance2,score1,score2,xg1,xg2,nsxg1,nsxg2,adj_score1,adj_score2
+10482,52646,2021,2022-03-13,1854,Italy Serie A,Torino,Internazionale,68.21,83.69,0.2258,0.5168,0.2574,0.97,1.6,,,1.0,1.0,2.29,2.56,1.51,1.79,1.05,1.05

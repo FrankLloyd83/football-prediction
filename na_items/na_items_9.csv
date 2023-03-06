@@ -1,0 +1,3 @@
+,index,season,date,league_id,league,team1,team2,spi1,spi2,prob1,prob2,probtie,proj_score1,proj_score2,importance1,importance2,score1,score2,xg1,xg2,nsxg1,nsxg2,adj_score1,adj_score2
+1073,1236,2016,2017-02-07,1843,French Ligue 1,Montpellier,AS Monaco,59.05,80.87,0.1545,0.6423,0.2032,1.3,2.15,,,1.0,2.0,1.56,1.13,1.14,0.91,1.05,2.1
+1074,1237,2016,2017-02-07,1843,French Ligue 1,Caen,Bordeaux,56.44,57.44,0.4444,0.2643,0.2913,1.52,1.18,,,0.0,4.0,0.69,1.26,0.75,1.05,0.0,3.69

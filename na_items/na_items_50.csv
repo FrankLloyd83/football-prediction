@@ -1,0 +1,2 @@
+,index,season,date,league_id,league,team1,team2,spi1,spi2,prob1,prob2,probtie,proj_score1,proj_score2,importance1,importance2,score1,score2,xg1,xg2,nsxg1,nsxg2,adj_score1,adj_score2
+10422,52310,2021,2022-03-06,1854,Italy Serie A,Bologna,Torino,59.81,67.63,0.3248,0.3844,0.2909,1.09,1.21,,,0.0,0.0,0.29,0.85,0.54,0.95,0.0,0.0

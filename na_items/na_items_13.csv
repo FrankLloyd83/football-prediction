@@ -1,0 +1,3 @@
+,index,season,date,league_id,league,team1,team2,spi1,spi2,prob1,prob2,probtie,proj_score1,proj_score2,importance1,importance2,score1,score2,xg1,xg2,nsxg1,nsxg2,adj_score1,adj_score2
+1282,1505,2016,2017-03-08,1869,Spanish Primera Division,Deportivo La Coruña,Real Betis,68.43,67.2,0.4702,0.2522,0.2776,1.42,0.88,,,1.0,1.0,1.47,0.41,1.19,0.35,1.05,1.05
+1283,1506,2016,2017-03-08,2411,Barclays Premier League,Manchester City,Stoke City,86.04,63.38,0.7566,0.0756,0.1677,2.35,0.56,,,0.0,0.0,1.26,0.35,1.56,0.82,0.0,0.0

@@ -1,0 +1,2 @@
+,index,season,date,league_id,league,team1,team2,spi1,spi2,prob1,prob2,probtie,proj_score1,proj_score2,importance1,importance2,score1,score2,xg1,xg2,nsxg1,nsxg2,adj_score1,adj_score2
+10069,50485,2021,2022-01-09,1854,Italy Serie A,Udinese,Atalanta,62.54,77.81,0.2481,0.5148,0.2371,1.19,1.81,,,2.0,6.0,0.63,3.41,0.62,1.95,2.1,5.14

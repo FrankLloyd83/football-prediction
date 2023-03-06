@@ -1,0 +1,3 @@
+,index,season,date,league_id,league,team1,team2,spi1,spi2,prob1,prob2,probtie,proj_score1,proj_score2,importance1,importance2,score1,score2,xg1,xg2,nsxg1,nsxg2,adj_score1,adj_score2
+1597,2036,2016,2017-04-25,1869,Spanish Primera Division,Sporting Gijón,Espanyol,56.44,71.21,0.3884,0.3225,0.2891,1.23,1.06,,,1.0,1.0,0.67,1.43,2.03,1.29,1.05,1.05
+1598,2037,2016,2017-04-25,1869,Spanish Primera Division,Granada,Málaga,45.74,69.49,0.3374,0.369,0.2936,1.04,1.22,,,0.0,2.0,0.09,1.15,0.57,1.36,0.0,1.58

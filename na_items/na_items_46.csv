@@ -1,0 +1,2 @@
+,index,season,date,league_id,league,team1,team2,spi1,spi2,prob1,prob2,probtie,proj_score1,proj_score2,importance1,importance2,score1,score2,xg1,xg2,nsxg1,nsxg2,adj_score1,adj_score2
+10255,51410,2021,2022-02-12,1854,Italy Serie A,Torino,F.B.C Unione Venezia,68.96,46.88,0.6186,0.1398,0.2416,1.69,0.66,,,1.0,2.0,0.79,0.54,1.78,0.92,1.05,2.1

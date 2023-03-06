@@ -1,0 +1,7 @@
+,index,season,date,league_id,league,team1,team2,spi1,spi2,prob1,prob2,probtie,proj_score1,proj_score2,importance1,importance2,score1,score2,xg1,xg2,nsxg1,nsxg2,adj_score1,adj_score2
+1760,2345,2016,2017-05-15,2411,Barclays Premier League,Chelsea,Watford,86.71,56.16,0.8064,0.0485,0.1451,2.45,0.34,,,4.0,3.0,2.39,0.94,2.27,0.17,4.2,3.15
+1761,2356,2016,2017-05-16,2411,Barclays Premier League,Arsenal,Sunderland,78.99,46.51,0.7723,0.0716,0.156,2.55,0.53,,,2.0,0.0,3.99,0.27,5.57,0.43,1.83,0.0
+1762,2357,2016,2017-05-16,2411,Barclays Premier League,Manchester City,West Bromwich Albion,85.93,57.63,0.7865,0.0579,0.1557,2.37,0.4,,,3.0,1.0,2.42,0.58,2.65,0.42,3.15,1.05
+1763,2362,2016,2017-05-17,2411,Barclays Premier League,Southampton,Manchester United,65.03,80.42,0.2548,0.4562,0.289,0.98,1.36,,,0.0,0.0,1.77,0.53,1.35,0.91,0.0,0.0
+1764,2363,2016,2017-05-17,1869,Spanish Primera Division,Celta Vigo,Real Madrid,67.87,93.44,0.1161,0.7433,0.1406,1.25,2.82,,,1.0,4.0,1.1,3.57,2.21,2.6,1.05,3.74
+1765,2364,2016,2017-05-17,1843,French Ligue 1,AS Monaco,St Etienne,84.78,59.86,0.8007,0.061,0.1384,2.54,0.6,,,2.0,0.0,2.22,0.34,1.93,0.38,1.58,0.0
